@@ -1,1 +1,3 @@
-# Cobalt-Custom-Project-Relax-V.0.1
+# Relax-dll-V.0.1
+
+Credits to Milxnor (Cobalt)
